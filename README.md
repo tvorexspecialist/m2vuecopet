@@ -1,3 +1,4 @@
-# magento2-vue-checkout
 
-Magento 2 Checkout module based on Vue.js
+Based on M2 Vuejs Checkout module.
+For Puppet Supplies web sites
+
